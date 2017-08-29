@@ -1,0 +1,12 @@
+{
+  "name": "uri",
+  "version": "1.0.0",
+  "description": "Plays a track by URI.",
+  "main": "index.js",
+  "private": "yes";
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finnbrue",
+  "license": "ISC"
+}

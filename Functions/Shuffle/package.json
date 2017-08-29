@@ -1,0 +1,11 @@
+{
+  "name": "shuffle",
+  "version": "1.0.0",
+  "description": "Enables shuffle.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finnbrue",
+  "license": "ISC"
+}
