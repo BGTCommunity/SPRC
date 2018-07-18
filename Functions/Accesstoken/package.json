@@ -1,0 +1,12 @@
+{
+  "name": "accesstoken",
+  "version": "1.0.0",
+  "description": "gets the access_token from spotify",
+  "main": "Index.js",
+  "private": "true";
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finnbrue",
+  "license": "ISC"
+}

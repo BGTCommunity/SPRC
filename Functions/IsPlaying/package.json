@@ -1,0 +1,12 @@
+{
+  "name": "isplaying",
+  "version": "1.0.0",
+  "description": "Checks if song is playing",
+  "main": "index.js",
+  "private": true 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finnbrue",
+  "license": "ISC"
+}

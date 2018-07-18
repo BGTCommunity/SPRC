@@ -1,0 +1,12 @@
+{
+  "name": "deviceid",
+  "version": "1.0.0",
+  "description": "Gets the device id from a spotify device.",
+  "main": "index.js",
+  "private": true 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Finnbrue & MarvinX",
+  "license": "ISC"
+}
